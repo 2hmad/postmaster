@@ -1,3 +1,9 @@
-build/bin
-node_modules
+.idea
+
+frontend/node_modules
+frontend/.idea
 frontend/dist
+
+build/bin
+build/darwin
+build/windows
